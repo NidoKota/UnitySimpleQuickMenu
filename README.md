@@ -1,6 +1,6 @@
 # 概要
 
-[動画](https://twitter.com/i/status/1200724943865991168)
+[動画](https://twitter.com/nidokota/status/1205808967705718784)
 
 UnitySimpleQuickMenuはUnityで簡単にメニューを作成できるAssetです。  
 まだ開発途中ですが、簡単なメニューを作ることはできます。
