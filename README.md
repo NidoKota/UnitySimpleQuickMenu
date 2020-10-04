@@ -1,3 +1,6 @@
+# UnitySimpleQuickMenu
+※プログラムを勉強しながら作成したので、かなり非効率で計算が多い仕組みになっている箇所があります   
+
 # 概要
 
 [動画](https://twitter.com/nidokota/status/1205808967705718784)
